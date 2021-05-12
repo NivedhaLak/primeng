@@ -22,7 +22,7 @@
     "@angular/router": "~8.2.13",
     "angular-font-awesome": "^3.1.2",
     "bootstrap": "^4.3.1",
-    "chart.js": "^2.9.2",
+    "chart.js": "^2.9.4",
     "font-awesome": "^4.7.0",
     "ng-multiselect-dropdown": "^0.2.6",
     "ngx-smart-modal": "^7.2.1",
